@@ -1,4 +1,4 @@
-package structures;
+
 
 import java.util.Scanner;
 
