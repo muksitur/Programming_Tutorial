@@ -10,7 +10,28 @@ public class Student {
 	
 	//todo: write getter and setter methods
 	
+	
+
+	public Student(String nama, int matriculation){
+		name = nama;
+		matrNr = matriculation;
+	}
+	
+	public String getname(){
+		return name;
+	}
+	
+	public int getmatriculation(){
+		return matrNr;
+	}
+	
 	public void addLecture(String lecture){
 		//todo: fill this method
+		
+		lectures.add(lecture);
+	}
+	
+	public ArrayList getlectures(){
+		return lectures;
 	}
 }
