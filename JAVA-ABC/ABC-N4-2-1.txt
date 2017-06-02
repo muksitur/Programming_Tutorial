@@ -1,0 +1,65 @@
+Artificial Bee Colony Algorithm
+Parameters
+MAX_LENGTH/N: 4
+STARTING_POPULATION: 40
+MAX_EPOCHS: 1
+FOOD_NUMBER: 20.0
+TRIAL_LIMIT: 2
+MINIMUM_SHUFFLES: 8
+MAXIMUM_SHUFFLES: 20
+
+Runtime summary
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+89090909354393
+89090950386866
+41032473
