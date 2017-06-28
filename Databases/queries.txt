@@ -1,0 +1,12 @@
+select nickname from Users;
+
+
+
+
+select msg from Messages where user = "" AND order by time LIMIT 5;
+
+
+
+
+select msg from Messages where friend = "" AND order by time LIMIT 3;
+
